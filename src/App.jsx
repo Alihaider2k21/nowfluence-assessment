@@ -14,7 +14,7 @@ function App() {
     <>
       <Header />
       <div className="items-center justify-self-center bg-[#EAF2FB] w-full justify-items-center px-4">
-        <div className="flex flex-col gap-3 max-w-[1280px] sm:flex-row">
+        <div className="flex flex-col gap-3 max-w-[1280px] md:flex-row">
           <div className="flex flex-col gap-2 flex-1/2 py-5">
             <p className="font-bold">Brand Name</p>
             <h1 className="font-bold text-[35px]">Campaign Title Here</h1>
